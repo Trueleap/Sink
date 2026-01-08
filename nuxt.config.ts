@@ -64,7 +64,7 @@ export default defineNuxtConfig({
     openAPI: {
       production: 'runtime',
       meta: {
-        title: 'Sink API',
+        title: 'Trueleap API',
         description: 'A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.',
       },
       route: '/_docs/openapi.json',
